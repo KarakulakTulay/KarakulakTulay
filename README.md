@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Tülay!
-- I’m a data enthusiast and interested in data curation, big data analysis, protein structures and cancer progression.
-- I like hiking, baking and kite surfing :hiking_boot: :moon_cake: :kite: 
+- I’m a data enthusiast and bioinformatician.
+- I'm interested in data curation, big data analysis, modeling biomolecule structures, cancer progression and web development.
 
 <!---
 KarakulakTulay/KarakulakTulay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
